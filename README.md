@@ -1,6 +1,6 @@
 # utl-transposing-mutiple-varaibles-using-a-specific-format-proc-report
 Transposing mutiple varaibles using a specific format proc report .
-    Transposing mutiple varaibles using a specific format proc report                                                                 
+    Transposing mutiple variables using a specific format proc report                                                                 
                                                                                                                                       
     https://tinyurl.com/y8srvzkt                                                                                                      
     https://github.com/rogerjdeangelis/utl-transposing-mutiple-variables-using-a-specific-format-proc-report                          
